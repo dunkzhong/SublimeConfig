@@ -1,0 +1,432 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3143,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"no",
+						"node"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Java.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/98-program/Python/Python36/Scripts/django-admin.py",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/Python3.sublime-build",
+				"/F/lan/Documents/00-WorkSpace/python/nima.js",
+				"/F/lan/Documents/00-WorkSpace/python/hello2.java",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/Java.sublime-build",
+				"/F/lan/Documents/00-WorkSpace/python/test.py",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/JavaScript.sublime-build",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/javascript.sublime-build"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 301.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"no",
+						"node"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Java.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/Java.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 412.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/lan/Documents/00-WorkSpace/PythonCode/hello/helloworld/models.py",
+				"/F/lan/Documents/00-WorkSpace/PythonCode/hello/app.json",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/E/98-program/Sublime Text 3/Data/Installed Packages/Package Control.sublime-package",
+				"/E/98-program/Python/Python36/Scripts/django-admin.py",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/Python3.sublime-build",
+				"/F/lan/Documents/00-WorkSpace/python/nima.js",
+				"/F/lan/Documents/00-WorkSpace/python/hello2.java",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/Java.sublime-build",
+				"/F/lan/Documents/00-WorkSpace/python/test.py",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/JavaScript.sublime-build",
+				"/E/98-program/Sublime Text 3/Data/Packages/User/javascript.sublime-build"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 301.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,565,26,26,682",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

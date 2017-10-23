@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Sync Settings"
+	]
+}

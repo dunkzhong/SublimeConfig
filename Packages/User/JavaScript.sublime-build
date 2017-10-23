@@ -1,0 +1,5 @@
+{
+        "cmd": ["E:/98-program/nodejs/node.exe", "$file"],
+        "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+        "selector": "source.js"
+}
